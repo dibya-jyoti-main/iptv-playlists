@@ -1,14 +1,27 @@
 [
-  {
-    "slug": "unknown",
-    "name": "Unknown",
-    "count": 998,
-    "playlist": "playlists/languages/unknown.m3u"
-  },
-  {
-    "slug": "malayalam",
-    "name": "Malayalam",
-    "count": 4,
-    "playlist": "playlists/languages/malayalam.m3u"
-  }
+  "english",
+  "hindi",
+  "odia",
+  "urdu",
+  "malayalam",
+  "tamil",
+  "telugu",
+  "assamese",
+  "bengali",
+  "nepali",
+  "chinese",
+  "arabic",
+  "24-7",
+  "punjabi",
+  "haryanvi",
+  "bhojpuri",
+  "marathi",
+  "kannada",
+  "russian",
+  "korean",
+  "unknown",
+  "gujarati",
+  "nagpuri",
+  "local",
+  "hindu"
 ]
