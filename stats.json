@@ -1,15 +1,70 @@
 {
-  "totalChannels": 0,
-  "cleanChannels": 0,
-  "drmChannels": 0,
-  "categories": 0,
-  "languages": 0,
-  "countries": 0,
-  "lastUpdated": "2026-05-24T10:16:55.693Z",
+  "totalChannels": 1094,
+  "cleanChannels": 1002,
+  "drmChannels": 92,
+  "categories": 151,
+  "languages": 2,
+  "countries": 1,
+  "lastUpdated": "2026-05-24T10:17:38.193Z",
   "generatedBy": "Dibya Jyoti Mahanta",
   "portfolio": "https://dibya-jyoti.vercel.app",
   "github": "https://github.com/DibyaJyotiMahanta",
-  "topCategories": [],
-  "topLanguages": [],
-  "topCountries": []
+  "topCategories": [
+    {
+      "name": "Plc Local Tamil India",
+      "count": 136
+    },
+    {
+      "name": "Sports",
+      "count": 63
+    },
+    {
+      "name": "Mix Entertainment Bengali Bangladesh",
+      "count": 62
+    },
+    {
+      "name": "Movie Hindi India",
+      "count": 55
+    },
+    {
+      "name": "Religious Hindi India",
+      "count": 47
+    },
+    {
+      "name": "News Bengali Bangladesh",
+      "count": 36
+    },
+    {
+      "name": "Entertainment Hindi India",
+      "count": 31
+    },
+    {
+      "name": "News Hindi India",
+      "count": 30
+    },
+    {
+      "name": "Music Hindi India",
+      "count": 29
+    },
+    {
+      "name": "Entertainment Bengali India",
+      "count": 28
+    }
+  ],
+  "topLanguages": [
+    {
+      "name": "Unknown",
+      "count": 998
+    },
+    {
+      "name": "Malayalam",
+      "count": 4
+    }
+  ],
+  "topCountries": [
+    {
+      "name": "Unknown",
+      "count": 1002
+    }
+  ]
 }

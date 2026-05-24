@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "slug": "unknown",
+    "name": "Unknown",
+    "count": 998,
+    "playlist": "playlists/languages/unknown.m3u"
+  },
+  {
+    "slug": "malayalam",
+    "name": "Malayalam",
+    "count": 4,
+    "playlist": "playlists/languages/malayalam.m3u"
+  }
+]
