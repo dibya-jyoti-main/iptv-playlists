@@ -2,18 +2,7 @@
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github&style=for-the-badge)](https://github.com/dibya-jyoti-main/iptv-playlists)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Auto Update](https://img.shields.io/badge/Auto%20Update-30%20Minutes-blue?style=for-the-badge)](https://github.com/dibya-jyoti-main/iptv-playlists/actions)
-[![Author](https://img.shields.io/badge/Author-Dibya%20Jyoti%20Mahanta-blueviolet?style=for-the-badge)](https://dibya-jyoti.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Fully Automated IPTV Playlist Collection
+# ⚡ Fully Automated IPTV Playlist Collection
 
 Auto-generated IPTV playlists with:
 
@@ -27,13 +16,23 @@ Auto-generated IPTV playlists with:
 
 Updated automatically every **30 minutes**.
 
+<br>
+
+[![Total Channels](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdibya-jyoti-main.github.io%2Fiptv-playlists%2Fstats.json&query=totalChannels&label=Total%20Channels&color=blue&style=for-the-badge)](https://dibya-jyoti-main.github.io/iptv-playlists/stats.json)
+
+[![DRM Channels](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdibya-jyoti-main.github.io%2Fiptv-playlists%2Fstats.json&query=drmChannels&label=DRM%20Channels&color=orange&style=for-the-badge)](https://dibya-jyoti-main.github.io/iptv-playlists/drm/drm.json)
+
+[![Last Update](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdibya-jyoti-main.github.io%2Fiptv-playlists%2Fupdate.json&query=lastUpdated&label=Last%20Updated&color=purple&style=for-the-badge)](https://dibya-jyoti-main.github.io/iptv-playlists/update.json)
+
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
 </div>
 
 ---
 
 # 🚀 Quick Start
 
-Use the playlist URLs below in:
+Paste any playlist URL into your IPTV player:
 
 - VLC Media Player
 - IPTV Smarters Pro
@@ -48,7 +47,7 @@ Use the playlist URLs below in:
 # 📺 Main Playlist
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/all.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/all.m3u
 ```
 
 ---
@@ -58,7 +57,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/all.m3u
 ## 📰 News
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/news.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/news.m3u
 ```
 
 ---
@@ -66,7 +65,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 👶 Kids
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/kids.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/kids.m3u
 ```
 
 ---
@@ -74,7 +73,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🎵 Music
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/music.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/music.m3u
 ```
 
 ---
@@ -82,7 +81,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🎬 Movie
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/movie.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/movie.m3u
 ```
 
 ---
@@ -90,7 +89,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🍿 Movies
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/movies.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/movies.m3u
 ```
 
 ---
@@ -98,7 +97,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🎭 Entertainment
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/entertainment.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/entertainment.m3u
 ```
 
 ---
@@ -106,7 +105,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 📺 Mix Entertainment
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/mix-entertainment.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/mix-entertainment.m3u
 ```
 
 ---
@@ -114,7 +113,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 👗 Fashion
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/fashion.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/fashion.m3u
 ```
 
 ---
@@ -122,7 +121,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🌍 Other
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/other.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/other.m3u
 ```
 
 ---
@@ -130,7 +129,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## ⚽ Sports
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/sports.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/sports.m3u
 ```
 
 ---
@@ -138,7 +137,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 📚 Infotainment
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/infotainment.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/infotainment.m3u
 ```
 
 ---
@@ -146,7 +145,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🛐 Religious
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/religious.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/religious.m3u
 ```
 
 ---
@@ -154,7 +153,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 📡 Local
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/local.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/local.m3u
 ```
 
 ---
@@ -162,7 +161,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 📻 PLC
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/plc.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/plc.m3u
 ```
 
 ---
@@ -170,7 +169,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🙏 Devotional
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/devotional.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/devotional.m3u
 ```
 
 ---
@@ -178,7 +177,7 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 ## 🎞️ Classic
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/classic.m3u
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/categories/classic.m3u
 ```
 
 ---
@@ -186,10 +185,10 @@ https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/categorie
 # 🌍 Language Playlists
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/languages/
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/languages/
 ```
 
-Example:
+Examples:
 
 ```txt
 bangla.m3u
@@ -205,10 +204,10 @@ arabic.m3u
 # 🗺️ Country Playlists
 
 ```txt
-https://github.com/dibya-jyoti-main.github.io/iptv-playlists/playlists/countries/
+https://dibya-jyoti-main.github.io/iptv-playlists/playlists/countries/
 ```
 
-Example:
+Examples:
 
 ```txt
 bangladesh.m3u
@@ -229,7 +228,7 @@ pakistan.m3u
 | `categories.json` | Category metadata |
 | `languages.json` | Language metadata |
 | `countries.json` | Country metadata |
-| `update.json` | Last update info |
+| `update.json` | Last update information |
 | `drm/drm.json` | DRM channels |
 | `drm/drm_keys.json` | DRM KID and Keys |
 
@@ -246,9 +245,7 @@ pakistan.m3u
   "languages": 22,
   "countries": 30,
   "lastUpdated": "2026-05-24T00:00:00.000Z",
-  "generatedBy": "Dibya Jyoti Mahanta",
-  "repository": "https://github.com/dibya-jyoti-main.github.io/iptv-playlists",
-  "portfolio": "https://dibya-jyoti.vercel.app"
+  "generatedBy": "Dibya Jyoti Mahanta"
 }
 ```
 
@@ -267,7 +264,6 @@ iptv-playlists/
 ├── countries.json
 ├── update.json
 ├── README.md
-├── setup.txt
 │
 ├── playlists/
 │   │
@@ -308,20 +304,20 @@ iptv-playlists/
 
 ---
 
-# ⚙️ Automation
+# ⚙️ Automation System
 
-This repository is automatically updated using GitHub Actions.
+This repository is powered by GitHub Actions automation.
 
 Features:
 
-- Automatic IPTV data fetching
-- Auto category generation
-- Auto language generation
-- Auto country generation
+- Automatic IPTV source fetching
+- Auto category playlist generation
+- Auto language playlist generation
+- Auto country playlist generation
 - JSON metadata generation
 - DRM extraction
-- GitHub Pages deployment
-- Automatic statistics generation
+- Statistics generation
+- Automatic GitHub Pages deployment
 
 Update interval:
 
@@ -343,8 +339,6 @@ Every 30 Minutes
 # Total Channels: 530
 # Last Updated  : Sun, 24 May 2026 00:00:00 GMT
 # Generated By  : Dibya Jyoti Mahanta
-# Repository    : https://github.com/dibya-jyoti-main.github.io/iptv-playlists
-# Portfolio     : https://dibya-jyoti.vercel.app
 # ==========================================
 #
 #EXTINF:-1 tvg-logo="https://..." group-title="Sports",Star Sports
@@ -355,9 +349,9 @@ https://example.com/live.m3u8
 
 # 🔐 DRM Notice
 
-DRM channels are separated into the `/drm/` directory.
+DRM-related channels and metadata are stored inside the `/drm/` directory.
 
-This project is created for:
+This repository is intended for:
 
 - Educational purposes
 - IPTV research
@@ -372,9 +366,9 @@ No copyrighted video content is hosted in this repository.
 
 - Streams are collected automatically from public IPTV sources
 - Availability may change anytime
-- No media content is hosted
+- No media files are hosted
 - Users are responsible for their own usage
-- All trademarks belong to their owners
+- All trademarks belong to their respective owners
 
 ---
 
@@ -384,12 +378,6 @@ No copyrighted video content is hosted in this repository.
 
 # Dibya Jyoti Mahanta
 ### দিব্য জ্যোতি মহন্ত
-
-🌐 Portfolio  
-https://dibya-jyoti.vercel.app
-
-🐙 GitHub  
-https://github.com/dibya-jyoti-main
 
 ⚡ Automated • Modern • Fast • Always Updated
 
