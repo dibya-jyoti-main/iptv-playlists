@@ -1,7 +1,8 @@
 {
-  "lastUpdated": "Not yet generated",
-  "status": "pending",
+  "lastUpdated": "2026-05-24T09:50:13.458Z",
+  "totalChannels": 1,
+  "cleanChannels": 1,
+  "drmChannels": 0,
   "generatedBy": "Dibya Jyoti Mahanta",
-  "portfolio": "https://dibya-jyoti.vercel.app",
-  "notice": "Run the iptv-generator GitHub Actions workflow to populate this repository."
+  "portfolio": "https://dibya-jyoti.vercel.app"
 }

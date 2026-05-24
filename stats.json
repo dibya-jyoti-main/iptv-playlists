@@ -1,13 +1,30 @@
 {
-  "totalChannels": 0,
-  "cleanChannels": 0,
+  "totalChannels": 1,
+  "cleanChannels": 1,
   "drmChannels": 0,
-  "categories": 0,
-  "languages": 0,
-  "countries": 0,
-  "lastUpdated": "Not yet generated — run the IPTV Generator workflow",
+  "categories": 1,
+  "languages": 1,
+  "countries": 1,
+  "lastUpdated": "2026-05-24T09:50:13.456Z",
   "generatedBy": "Dibya Jyoti Mahanta",
   "portfolio": "https://dibya-jyoti.vercel.app",
   "github": "https://github.com/DibyaJyotiMahanta",
-  "notice": "Run the iptv-generator GitHub Actions workflow to populate this file."
+  "topCategories": [
+    {
+      "name": "General",
+      "count": 1
+    }
+  ],
+  "topLanguages": [
+    {
+      "name": "Unknown",
+      "count": 1
+    }
+  ],
+  "topCountries": [
+    {
+      "name": "Unknown",
+      "count": 1
+    }
+  ]
 }
