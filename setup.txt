@@ -1,0 +1,168 @@
+================================================================
+  IPTV Playlists — ব্যবহার গাইড
+  লেখক: Dibya Jyoti Mahanta (দিব্য জ্যোতি মহন্ত)
+  Portfolio: https://dibya-jyoti.vercel.app
+================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  এই রিপোজিটরি কী?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+এই রিপোজিটরিতে সব IPTV playlist ফাইল রাখা হয়।
+iptv-generator রিপো থেকে প্রতি ৩০ মিনিটে এখানে
+নতুন playlist push হয়।
+
+আপনাকে কিছু করতে হবে না — শুধু playlist URL copy করুন
+এবং আপনার IPTV player-এ দিন।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  GitHub Pages সেটআপ (একবারই করতে হবে)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ১. এই রিপোজিটরিতে (iptv-playlists) যান
+  ২. Settings ক্লিক করুন
+  ৩. বাম মেনু থেকে "Pages" খুঁজুন
+  ④. Source: "Deploy from a branch" বেছে নিন
+  ⑤. Branch: main → Folder: / (root)
+  ⑥. Save বাটনে ক্লিক করুন
+
+  কিছুক্ষণ পরে এই URL চালু হবে:
+  https://YourUsername.github.io/iptv-playlists/
+
+  ⚠️ এই রিপো অবশ্যই PUBLIC রাখতে হবে,
+     না হলে GitHub Pages কাজ করবে না।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Playlist URL গুলো
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ─── সব চ্যানেল ───
+  https://YourUsername.github.io/iptv-playlists/all.m3u
+
+  ─── Category অনুযায়ী ───
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/news.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/sports.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/movies.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/entertainment.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/music.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/kids.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/documentary.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/religious.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/anime.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/categories/education.m3u
+
+  ─── ভাষা অনুযায়ী ───
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/bangla.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/english.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/hindi.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/tamil.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/urdu.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/arabic.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/languages/korean.m3u
+
+  ─── দেশ অনুযায়ী ───
+  https://YourUsername.github.io/iptv-playlists/playlists/countries/bangladesh.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/countries/india.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/countries/usa.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/countries/uk.m3u
+  https://YourUsername.github.io/iptv-playlists/playlists/countries/pakistan.m3u
+
+  ─── JSON API ───
+  https://YourUsername.github.io/iptv-playlists/stats.json
+  https://YourUsername.github.io/iptv-playlists/channels.json
+  https://YourUsername.github.io/iptv-playlists/categories.json
+  https://YourUsername.github.io/iptv-playlists/languages.json
+  https://YourUsername.github.io/iptv-playlists/countries.json
+
+  ⚠️ "YourUsername" এর জায়গায় আপনার GitHub username দিন।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  কোন IPTV player-এ ব্যবহার করবেন?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Android / Android TV:
+  ✅ TiviMate (সবচেয়ে ভালো)
+  ✅ IPTV Smarters Pro
+  ✅ GSE Smart IPTV
+  ✅ OTT Navigator
+
+  iOS / Apple TV:
+  ✅ GSE Smart IPTV
+  ✅ IPTV Smarters
+
+  Windows / Mac / Linux:
+  ✅ VLC Media Player
+  ✅ Kodi (PVR IPTV Simple Client plugin দিয়ে)
+
+  Smart TV:
+  ✅ Samsung / LG-তে Smart IPTV app
+
+  ব্যবহার করার নিয়ম (TiviMate উদাহরণ):
+  ① TiviMate খুলুন
+  ② Add playlist → M3U playlist
+  ③ URL box-এ আপনার playlist URL দিন
+  ④ Done — চ্যানেল লোড হয়ে যাবে
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Playlist কত সময় পর পর আপডেট হয়?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  প্রতি ৩০ মিনিটে স্বয়ংক্রিয়ভাবে আপডেট হয়।
+  iptv-generator রিপোর GitHub Actions এই কাজ করে।
+
+  কোনো চ্যানেল কাজ না করলে পরের আপডেটে সেটি
+  বাদ দেওয়া হতে পারে।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DRM ফাইল সম্পর্কে
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  /drm/ ফোল্ডারে DRM-protected চ্যানেলের তথ্য রাখা হয়।
+  এগুলো সাধারণ playlist-এ নেই কারণ এদের বিশেষ
+  player দরকার।
+
+  DRM ফাইলগুলো শুধু তথ্যের জন্য রাখা হয়েছে।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  সমস্যা সমাধান
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ❌ Playlist খুলছে না?
+     → GitHub Pages চালু হতে ৩-৫ মিনিট লাগতে পারে
+     → URL ঠিক আছে কিনা দেখুন (case-sensitive)
+
+  ❌ চ্যানেল কাজ করছে না?
+     → Stream টি offline থাকতে পারে
+     → পরের আপডেটে ঠিক হতে পারে
+
+  ❌ Playlist-এ কোনো চ্যানেল নেই?
+     → iptv-generator workflow চলেছে কিনা দেখুন
+     → stats.json চেক করুন
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Disclaimer (দায়বদ্ধতা সীমাবদ্ধতা)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  এই রিপোজিটরি কোনো ভিডিও content হোস্ট করে না।
+  সব stream publicly available sources থেকে নেওয়া।
+  এটি শুধুমাত্র শিক্ষামূলক ও ব্যক্তিগত ব্যবহারের জন্য।
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Author Information
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  নাম      : Dibya Jyoti Mahanta (দিব্য জ্যোতি মহন্ত)
+  Portfolio : https://dibya-jyoti.vercel.app
+  GitHub    : https://github.com/DibyaJyotiMahanta
+
+================================================================
+  Made with ❤️ by Dibya Jyoti Mahanta
+================================================================

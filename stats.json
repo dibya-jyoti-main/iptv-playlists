@@ -1,0 +1,13 @@
+{
+  "totalChannels": 0,
+  "cleanChannels": 0,
+  "drmChannels": 0,
+  "categories": 0,
+  "languages": 0,
+  "countries": 0,
+  "lastUpdated": "Not yet generated — run the IPTV Generator workflow",
+  "generatedBy": "Dibya Jyoti Mahanta",
+  "portfolio": "https://dibya-jyoti.vercel.app",
+  "github": "https://github.com/DibyaJyotiMahanta",
+  "notice": "Run the iptv-generator GitHub Actions workflow to populate this file."
+}
