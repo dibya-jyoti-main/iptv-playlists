@@ -1,10 +1,10 @@
 {
-  "totalChannels": 1002,
-  "drmChannels": 92,
-  "categories": 16,
-  "languages": 25,
-  "countries": 40,
+  "totalChannels": 0,
+  "drmChannels": 0,
+  "categories": 0,
+  "languages": 0,
+  "countries": 0,
   "generatedBy": "Dibya Jyoti Mahanta",
   "portfolio": "https://dibya-jyoti.vercel.app",
-  "lastUpdated": "2026-06-11T02:35:57.147Z"
+  "lastUpdated": "2026-06-11T07:21:08.521Z"
 }
